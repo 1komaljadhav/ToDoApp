@@ -52,10 +52,6 @@ All form fields are validated on submission:
 •	Uses Tailwind responsive utility classes (sm:, md:, lg:)
 •	Horizontal scrolling enabled for table on smaller screens
 
- Accessibility
-•	Uses semantic HTML elements (e.g., <form>, <label>, <section>)
-•	Focus states and keyboard navigation supported
-•	Color contrast and button size optimized
  
  
 
